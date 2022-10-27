@@ -1,3 +1,5 @@
+//https://app.patika.dev/theozturk
+
 import java.util.Scanner;
 
 public class SayıSıralama {
