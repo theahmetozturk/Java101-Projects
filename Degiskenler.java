@@ -21,8 +21,7 @@ public class Degiskenler {
 		/*
 		 * int k=-12; int l=-5; int islen=k%l; System.out.println(islen );
 		 */
-	double ak = Math.pow(2,31)-1;
-	System.out.println(ak);
+
 
 	}
 
